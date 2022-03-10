@@ -6,4 +6,6 @@ I am Brazilian Developer!
 - 📫 How to reach me: romario.silva33@hotmail.com or romario.silva15@hotmail.com
 - 😄 Pronouns: He/Him  Ele/Dele
 - 🔨 Tools:Visual studio code and Github.
+- <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-image">
+
 
